@@ -100,7 +100,7 @@ SQL was used to analyze and prepare the data before importing it into Power BI.
 
 ## 🖼 Dashboard Preview
 
-_Add Power BI dashboard screenshots here_
+[_Dashboard Preview_](https://github.com/avgeek-kev/Brick-and-Mortar-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 
 ---
 
